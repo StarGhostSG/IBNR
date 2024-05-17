@@ -1,0 +1,8 @@
+add user 
+git config --global user.name "anis ben"
+
+initialize empty git repo 
+git init 
+
+see all 
+ls
